@@ -1,4 +1,11 @@
 66666666666666666
+<<<<<<< Updated upstream
 wo jixu xie a
 nihaobu
 
+=======
+aaaa weishengmo
+
+
+asdsafadfasd
+>>>>>>> Stashed changes
